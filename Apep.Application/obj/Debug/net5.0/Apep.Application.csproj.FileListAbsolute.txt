@@ -1,0 +1,15 @@
+C:\projects\Apep .NET 5\Apep.Application\bin\Debug\net5.0\Apep.Application.deps.json
+C:\projects\Apep .NET 5\Apep.Application\bin\Debug\net5.0\Apep.Application.dll
+C:\projects\Apep .NET 5\Apep.Application\bin\Debug\net5.0\Apep.Application.pdb
+C:\projects\Apep .NET 5\Apep.Application\bin\Debug\net5.0\Apep.Domain.dll
+C:\projects\Apep .NET 5\Apep.Application\bin\Debug\net5.0\Apep.Domain.pdb
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.csproj.AssemblyReference.cache
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.AssemblyInfoInputs.cache
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.AssemblyInfo.cs
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.csproj.CoreCompileInputs.cache
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.csproj.CopyComplete
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.dll
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\refint\Apep.Application.dll
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\Apep.Application.pdb
+C:\projects\Apep .NET 5\Apep.Application\obj\Debug\net5.0\ref\Apep.Application.dll

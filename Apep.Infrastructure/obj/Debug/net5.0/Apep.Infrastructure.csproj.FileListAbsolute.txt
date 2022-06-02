@@ -1,0 +1,17 @@
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Infrastructure.deps.json
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Infrastructure.dll
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Infrastructure.pdb
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Application.dll
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Domain.dll
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Application.pdb
+C:\projects\Apep .NET 5\Apep.Infrastructure\bin\Debug\net5.0\Apep.Domain.pdb
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.csproj.AssemblyReference.cache
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.AssemblyInfo.cs
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.csproj.CopyComplete
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.dll
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\refint\Apep.Infrastructure.dll
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\Apep.Infrastructure.pdb
+C:\projects\Apep .NET 5\Apep.Infrastructure\obj\Debug\net5.0\ref\Apep.Infrastructure.dll

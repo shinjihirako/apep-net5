@@ -1,0 +1,12 @@
+C:\projects\Apep .NET 5\Apep.Domain\bin\Debug\net5.0\Apep.Domain.deps.json
+C:\projects\Apep .NET 5\Apep.Domain\bin\Debug\net5.0\Apep.Domain.dll
+C:\projects\Apep .NET 5\Apep.Domain\bin\Debug\net5.0\Apep.Domain.pdb
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.csproj.AssemblyReference.cache
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.AssemblyInfoInputs.cache
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.AssemblyInfo.cs
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.csproj.CoreCompileInputs.cache
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.dll
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\refint\Apep.Domain.dll
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\Apep.Domain.pdb
+C:\projects\Apep .NET 5\Apep.Domain\obj\Debug\net5.0\ref\Apep.Domain.dll

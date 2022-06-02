@@ -1,0 +1,12 @@
+C:\projects\Apep .NET 5\Apep.Identity\bin\Debug\net5.0\Apep.Identity.deps.json
+C:\projects\Apep .NET 5\Apep.Identity\bin\Debug\net5.0\Apep.Identity.dll
+C:\projects\Apep .NET 5\Apep.Identity\bin\Debug\net5.0\Apep.Identity.pdb
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.csproj.AssemblyReference.cache
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.AssemblyInfoInputs.cache
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.AssemblyInfo.cs
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.csproj.CoreCompileInputs.cache
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.dll
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\refint\Apep.Identity.dll
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\Apep.Identity.pdb
+C:\projects\Apep .NET 5\Apep.Identity\obj\Debug\net5.0\ref\Apep.Identity.dll
